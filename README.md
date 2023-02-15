@@ -13,7 +13,7 @@ Clone this repo and work locally. Be sure to push the final version of your code
 
 1. Resources to support this assignment are provided below in the Resources section.  
 
-1. Create a GitHub Page for your repo and add the link to it above where you see `[insert your clickable hyperlink here]`. 
+1. Create a GitHub Page for your repo and add the link to it above where you see `[https://ds4200-s23-class.github.io/ic-07-jdrohan356/]`. 
 
 1. Using the provided index.html, d3.js libray, an external CSS file (no styling should be included in your html file), and an external js file (no js code should be included in your html file), please do the following: 
    - Title your webpage "ic-07". 
